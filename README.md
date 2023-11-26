@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **candystd1@gmail.com**
 
+- 💬 Ask me about **C#,Web-App**  
+
 - ⚡ Fun fact **I am lazy so I will make the easy way to finish Project**
 
 <h3 align="left">Connect with me:</h3>
